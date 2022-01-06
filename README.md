@@ -1,3 +1,3 @@
 # Data Structures and Algorithms
 
-Repositório para armazenar snippets exemplificando a aplicação de alguns algoritmos e estruturas de dados aprendidos por mim.
+Repo created to store code snippets exemplifying the application of some known algorithms and data structures.
